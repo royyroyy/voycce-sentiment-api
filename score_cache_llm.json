@@ -1,0 +1,460 @@
+{
+  "d3500efea7273fe4c6e9bcc2310a5a8961c09c8ecce6482ae8c734c280e8aba1|Florida sues OpenAI for letting dangerous product reach millions|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_001",
+    "aspect": "Florida sues OpenAI for letting dangerous product reach millions",
+    "score": -0.85,
+    "confidence": 0.9,
+    "reason": "The article reports a lawsuit accusing OpenAI of concealing safety risks and knowingly allowing a dangerous product to reach millions, which is strongly negative for OpenAI's reputation and legal standing.",
+    "evidence_spans": [
+      "Florida lawsuit accuses OpenAI of ignoring safety warnings and putting children at risk",
+      "alleging that the company concealed serious safety risks with its chatbot",
+      "allowed a dangerous product to reach millions"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 3178
+  },
+  "823d563c1ce4825edad64d3c91571564d2e86b046222fe7fef037ab6245cc8b9|Microsoft rolls out seven new MAI AI models|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_002",
+    "aspect": "Microsoft rolls out seven new MAI AI models",
+    "score": 0.7,
+    "confidence": 0.85,
+    "reason": "The article positively frames Microsoft's launch of seven new AI models as a major product expansion with broad capabilities, highlighted at a flagship developer conference alongside other significant innovations.",
+    "evidence_spans": [
+      "Microsoft launches new MAI family of AI models for reasoning, voice, coding, and images",
+      "announce a new family of in-house AI models, alongside a slew of other news",
+      "span the company's full product stack, from silicon to operating system to cloud infrastructure"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 3178
+  },
+  "5d7376de55b806c9b1cffa845ee7ecde5f1cac2b4be96a58945f037f8db9e94c|Teens deploy $5 malware to cyberbully Minecraft players|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_003",
+    "aspect": "Teens deploy $5 malware to cyberbully Minecraft players",
+    "score": -0.8,
+    "confidence": 0.9,
+    "reason": "The article describes malware being weaponized specifically to cyberbully young Minecraft players, a clearly harmful and negative development for gaming safety.",
+    "evidence_spans": [
+      "Teenagers are using a $5 Minecraft malware called WeedHack to target and cyberbully victims",
+      "new malware that has already logged more than 116,000 hits"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1429
+  },
+  "951916a5401271f46c8dea54348ab9cc8bb746211f517522dd3e6736c2ff8ea9|US-Iranian tech CEO arrested for sanctions violations|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_004",
+    "aspect": "US-Iranian tech CEO arrested for sanctions violations",
+    "score": -0.85,
+    "confidence": 0.9,
+    "reason": "The arrest reflects negatively on the topic, portraying illicit sanctions evasion and covert supply of restricted tech to Iran's military.",
+    "evidence_spans": [
+      "allegedly supplying advanced US encryption gear to Iran",
+      "covert procurement activity allegedly masked through opaque financial routes and shell companies"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1429
+  },
+  "94001c8b51d660df6d5d8eb44e7931f73f0b1dd6721e3af7bf8549a24be8b1cb|Brazilian bestseller explores psychology of political leaders|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_005",
+    "aspect": "Brazilian bestseller explores psychology of political leaders",
+    "score": 0.6,
+    "confidence": 0.75,
+    "reason": "The article positively frames the book's success and its insightful exploration of political psychology, portraying it as a notable achievement.",
+    "evidence_spans": [
+      "Brazilian Bestseller on Leadership Under Pressure Debuts Worldwide in English",
+      "its rise on Amazon Brazil's bestseller lists and the expansion of its Spanish-language edition"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1429
+  },
+  "011fb7d35bbc8ffe6d4b708ae5592462ab05e17ed949e0fbba03828426481857|Hottest year on record likely within next 5 years per UN|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_006",
+    "aspect": "Hottest year on record likely within next 5 years per UN",
+    "score": -0.85,
+    "confidence": 0.9,
+    "reason": "A near-certain new heat record within five years is a clearly negative climate development, indicating accelerating global warming.",
+    "evidence_spans": [
+      "Hottest year on record almost certain to occur by end of 2030, UN warns",
+      "86 percent chance that one of the next five years will surpass 2024 as the warmest on record"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1429
+  },
+  "2d30e38580d82deeafbe66876be7d6655d9f512fc0e12cff93529f6d87b100f0|Ukraine proposes face-to-face peace talks to end Russia-Ukraine war|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_007",
+    "aspect": "Ukraine proposes face-to-face peace talks to end Russia-Ukraine war",
+    "score": 0.7,
+    "confidence": 0.8,
+    "reason": "Zelensky's proposal for direct talks and a ceasefire is a positive diplomatic step toward ending the war, even though Putin has resisted a ceasefire.",
+    "evidence_spans": [
+      "Zelensky proposes face-to-face talks in open letter to Putin",
+      "peace could only come \"through direct engagement between\" Ukraine and Russia"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1429
+  },
+  "a26f35a2f9c521e9a33897d49b9160ad7ecd3007c7b48c623fed4fbbf7c15a95|Japanese scientists recreate full hair growth cycle in mice|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_008",
+    "aspect": "Japanese scientists recreate full hair growth cycle in mice",
+    "score": 0.85,
+    "confidence": 0.9,
+    "reason": "The scientific breakthrough in hair regrowth is framed very positively, offering hope to people suffering hair loss from illness or chemotherapy.",
+    "evidence_spans": [
+      "What a hair loss breakthrough could mean for women like me",
+      "hair loss breakthrough"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1429
+  },
+  "965e991cc5132ddf85f0a0637274cc5ebff90ac023d3dcb196efe9a875899b49|Strait of Hormuz control may replace nuclear file as Iran deterrent|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_009",
+    "aspect": "Strait of Hormuz control may replace nuclear file as Iran deterrent",
+    "score": 0.1,
+    "confidence": 0.5,
+    "reason": "The article is largely descriptive/analytical about a strategic debate, without clearly framing the shift toward Strait of Hormuz leverage as good or bad.",
+    "evidence_spans": [
+      "A debate is under way in Tehran over whether control of the world's busiest oil chokepoint can replace uranium enrichment as the country's deterrent"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1429
+  },
+  "0951b665d3f8a678cd47b0e143a180f97c68a656385c585f7d85adc61c22660d|AI designs world-first vaccine to predict virus mutations|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_010",
+    "aspect": "AI designs world-first vaccine to predict virus mutations",
+    "score": 0.8,
+    "confidence": 0.85,
+    "reason": "The AI-designed vaccine is presented as a groundbreaking positive advance with potential to prevent pandemics.",
+    "evidence_spans": [
+      "'World-first' vaccine designed by Artificial Intelligence",
+      "fundamentally new\" type of vaccine that could protect against large swathes of viruses and prevent pandemics"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1429
+  },
+  "8814278d57c393489724d4f841703e4169ea9dc1dd3830041cd311a3ad5a741e|Yale students raise $5M for AI social network startup|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_011",
+    "aspect": "Yale students raise $5M for AI social network startup",
+    "score": 0.6,
+    "confidence": 0.75,
+    "reason": "The successful fundraising and innovative pitch for the Yale students' startup is portrayed as a positive entrepreneurial achievement.",
+    "evidence_spans": [
+      "2 Yale students raised $5 million to help supercharge your career",
+      "Series was to build a professional network where Gen Z lives"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1429
+  },
+  "209c2ecbcf1acc68c6dbeb92a3cbf480235192068430ef016c391518ebb5629c|Google Cloud lays off staff to reinvest in AI growth|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_012",
+    "aspect": "Google Cloud lays off staff to reinvest in AI growth",
+    "score": -0.6,
+    "confidence": 0.8,
+    "reason": "Layoffs at Google Cloud, including in a top security unit, reflect negatively on the topic despite being framed as reinvestment in AI.",
+    "evidence_spans": [
+      "Google is quietly laying off staff in its cloud division",
+      "Employees working at Google Cloud have been hit by cuts over the last two weeks"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1429
+  },
+  "9e06923380e1ceaa54a929662d5735d6efa5dae0606a5059f5cf48c942fa9668|Sam Altman eye-scanning startup Tools for Humanity lays off employees|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_013",
+    "aspect": "Sam Altman eye-scanning startup Tools for Humanity lays off employees",
+    "score": -0.7,
+    "confidence": 0.85,
+    "reason": "Layoffs, struggles to generate revenue, and regulatory issues portray the startup negatively despite high valuation.",
+    "evidence_spans": [
+      "is laying off employees",
+      "The company has struggled to show how its iris-scanning \"Orb\" can generate revenue and win over regulators"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1250
+  },
+  "0d6bc79b33eee33bbe1e09bc17b6c9d34fbf504dc48ac4106b02d66d5d34f4a0|Nithya Raman advances to LA mayoral runoff against Bass|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_014",
+    "aspect": "Nithya Raman advances to LA mayoral runoff against Bass",
+    "score": 0.5,
+    "confidence": 0.75,
+    "reason": "Article frames Raman's advancement positively as a grassroots success story reaching the runoff.",
+    "evidence_spans": [
+      "secured a spot in the November mayoral runoff",
+      "built a grassroots profile as a progressive outsider",
+      "defeating incumbent Councilman David Ryu with 52.9% of the vote"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1250
+  },
+  "040a367055b4d22c59965d60a4bec10e70de23e87daa497c92ff06eff4b95a3e|Trump and Netanyahu at odds over Israel's recent strikes on Iran|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_015",
+    "aspect": "Trump and Netanyahu at odds over Israel's recent strikes on Iran",
+    "score": -0.6,
+    "confidence": 0.75,
+    "reason": "Highlights disunity and escalation between Trump and Netanyahu, a negative development for the alliance/situation.",
+    "evidence_spans": [
+      "Netanyahu and Trump are at odds over the war they started together",
+      "want different things",
+      "Iran responded by firing ballistic missiles at Israel"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1250
+  },
+  "6d80679df9b75b4330c9ecf08d86842ed24b131587c6032b9d4a671fd190e1a7|Business Insider launches interactive US data center tracker|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_016",
+    "aspect": "Business Insider launches interactive US data center tracker",
+    "score": 0.5,
+    "confidence": 0.7,
+    "reason": "Presents the tracker as a useful, informative new tool with positive framing of its scope and utility.",
+    "evidence_spans": [
+      "Business Insider's new map shows 1,416 data centers built or approved for construction",
+      "Hot spots have emerged"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1250
+  },
+  "0008679ecc42d6da591c3c8a4747e2248e778cd93e93bc47e15e98dc1fa82aec|OpenAI files confidential SEC paperwork for IPO|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_017",
+    "aspect": "OpenAI files confidential SEC paperwork for IPO",
+    "score": 0.6,
+    "confidence": 0.8,
+    "reason": "Filing for IPO is portrayed as a significant positive milestone opening a path to going public.",
+    "evidence_spans": [
+      "opening the door to a Wall Street debut",
+      "racing to Wall Street debuts"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1250
+  },
+  "d1f5bd08d72ea544728ddda1611855d5aaca688c43ca6a481684294d15d537ca|Australia seizes 100,000 illegal exotic cockroaches in record bust|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_018",
+    "aspect": "Australia seizes 100,000 illegal exotic cockroaches in record bust",
+    "score": 0.5,
+    "confidence": 0.7,
+    "reason": "Framed as a successful enforcement action protecting biosecurity, positive from a regulatory/environmental standpoint.",
+    "evidence_spans": [
+      "Australia's largest-ever illegal exotic invertebrate seizure",
+      "illegal to import, keep, breed, or sell in Australia under strict biosecurity law"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1250
+  },
+  "63af0b32ee471f031179a712067f3c2c9bfe52eefe36effdfec955140727be35|AI tools unreliable without structured data context layer|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_019",
+    "aspect": "AI tools unreliable without structured data context layer",
+    "score": -0.8,
+    "confidence": 0.85,
+    "reason": "Strongly criticizes AI reliability without structured data, framing it as dangerously unreliable for decision-making.",
+    "evidence_spans": [
+      "Your AI is a confident liar with better formatting",
+      "You cannot tell its wrong answers from its right ones",
+      "there is no structure around it"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1250
+  },
+  "89500d059e58af47ecf0e6619dc534254600b283e5c60911820a978d5c519666|May jobs report beats expectations with 172,000 payroll growth|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_020",
+    "aspect": "May jobs report beats expectations with 172,000 payroll growth",
+    "score": 0.85,
+    "confidence": 0.9,
+    "reason": "Strongly positive economic news with job growth far exceeding expectations and upward revisions.",
+    "evidence_spans": [
+      "smashes expectations with payroll growth of 172,000",
+      "blowing past expectations",
+      "was also revised to show an even better 179,000 jobs gained"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1250
+  },
+  "71902af4f00d2e76bee5c39bfce623911df546307c395eb2ba0f88785e2cb820|Motorola Razr Ultra review: not worth the price bump|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_021",
+    "aspect": "Motorola Razr Ultra review: not worth the price bump",
+    "score": -0.5,
+    "confidence": 0.75,
+    "reason": "Despite praising some features, the review concludes the price increase isn't justified, framing it negatively overall.",
+    "evidence_spans": [
+      "Too much for too little",
+      "A $200 premium over its predecessor for a slightly bigger battery and one new camera sensor just doesn't sit right",
+      "$200 more expensive than the previous model"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1250
+  },
+  "40c02c8cf5cece39e4d8f896017fcec13ffa32215b288034c7fe45c9960dd8f1|Speaker Johnson claims California election fraud without evidence|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_022",
+    "aspect": "Speaker Johnson claims California election fraud without evidence",
+    "score": -0.7,
+    "confidence": 0.85,
+    "reason": "Article is critical and mocking of Johnson's unsubstantiated fraud claims, portraying them as baseless.",
+    "evidence_spans": [
+      "did what he does best: steer away from facts and embrace nebulous speculation",
+      "Apparently it's more of a vibes-based thing for Mike Johnson",
+      "I'm not saying it's rigged, I'm saying it stinks to high heaven"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1250
+  },
+  "c487291b32c9f0408654aaec3d9385066c16b348f0d2bfff9f35fd1f589cd799|German court rules Google liable for false statements in AI Overviews|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_023",
+    "aspect": "German court rules Google liable for false statements in AI Overviews",
+    "score": -0.7,
+    "confidence": 0.85,
+    "reason": "The court ruling finding Google liable for false AI Overview statements is a legal and reputational setback, framed as potentially damaging to Google's and the broader AI search industry's prospects.",
+    "evidence_spans": [
+      "a German court has ruled that Google is liable for false statements in AI Overviews",
+      "could spell doom for AI search industry"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1457
+  },
+  "bad90e56080ba2efb2b7a793a64fbc0a5cd523a9c1253eab7d674aaaee23a79a|Fully autonomous AI drones kill human soldiers for first time|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_024",
+    "aspect": "Fully autonomous AI drones kill human soldiers for first time",
+    "score": -0.9,
+    "confidence": 0.85,
+    "reason": "The article reports autonomous drones killing human soldiers without oversight, a grim milestone framed as alarming for the future of warfare and human control over lethal force.",
+    "evidence_spans": [
+      "Fully autonomous drones with no human oversight have killed soldiers on the battlefield for the first time",
+      "marking a watershed moment in warfare"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1457
+  },
+  "4d7830a268ef1feaebba5fe852e7169d06ad57b27bdddf5d09c9887945b96c1c|Southern Baptists advance formal ban on women pastors|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_025",
+    "aspect": "Southern Baptists advance formal ban on women pastors",
+    "score": -0.6,
+    "confidence": 0.75,
+    "reason": "From the perspective of tracking this topic as a women's rights/inclusion issue, advancing a formal ban on women pastors represents a negative, restrictive development, though the article itself is reported neutrally.",
+    "evidence_spans": [
+      "voted Wednesday to advance a formal ban on women pastors",
+      "sending a clear message that men alone should preach"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1457
+  },
+  "cae5e24707cbcfdef0e8cd7c864ff926d5e6f68ad2f4b0a0cfd1f11805755204|Apple's new Siri AI faces privacy paradox tradeoff|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_026",
+    "aspect": "Apple's new Siri AI faces privacy paradox tradeoff",
+    "score": -0.5,
+    "confidence": 0.7,
+    "reason": "The piece highlights a genuine tension where Siri's usefulness requires deep personal data access, framing this tradeoff negatively due to privacy risks despite functional benefits.",
+    "evidence_spans": [
+      "The catch is privacy",
+      "needs deep access to personal data that the company has walled off for years"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1457
+  },
+  "c7a7a007cb4d5f7baa73e8a34a40680cf2e5db56bee663ef92caeb5ee403c175|Historic El Ni\u00f1o forms, expected to cause global weather extremes|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_027",
+    "aspect": "Historic El Ni\u00f1o forms, expected to cause global weather extremes",
+    "score": -0.85,
+    "confidence": 0.9,
+    "reason": "The formation of a historically strong El Ni\u00f1o is presented as a costly, destructive event likely to cause extreme heat, floods, droughts and fires.",
+    "evidence_spans": [
+      "scientists fear it'll be big, bad and costly with heat, floods, droughts, fires",
+      "will likely turbocharge extreme weather across the planet"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1457
+  },
+  "823b1a1f4776ed68912442338504e7c758161750d9e96f5b1787ace166527144|Grok AI violated Canadian privacy law generating 6K deepfakes per hour|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_028",
+    "aspect": "Grok AI violated Canadian privacy law generating 6K deepfakes per hour",
+    "score": -0.9,
+    "confidence": 0.9,
+    "reason": "The article details a clear legal violation and harmful outcome, with Grok AI breaking privacy law and mass-producing sexual deepfakes at an alarming rate.",
+    "evidence_spans": [
+      "Grok AI broke Canada's laws, created 6K sexual deepfake images per hour: probe",
+      "violated Canada's federal private sector privacy law by launching the Grok AI-powered image generation tool without implementing appropriate safeguards"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1457
+  },
+  "66baaef01dd21e7d5682111ac5858b4162c00879fcd5557ec489228d74bc6fa7|OpenAI report exposes China-linked anti-data-center influence campaign|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_029",
+    "aspect": "OpenAI report exposes China-linked anti-data-center influence campaign",
+    "score": -0.4,
+    "confidence": 0.65,
+    "reason": "The report reveals a covert Chinese influence campaign targeting US data center sentiment, a negative finding, though the article undercuts its severity by noting the campaign had little effect and used true facts.",
+    "evidence_spans": [
+      "China ran a covert campaign to turn Americans against data centers",
+      "the campaigns had little to no effect"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1457
+  },
+  "26dee03c1a302ef9fba94e9aa5d078c997ab5948ac62e754cd5bb13d7f93130b|US producer prices rise 6.5% on Iran war energy shock|snp-v1|claude-sonnet-5": {
+    "article_id": "manual_030",
+    "aspect": "US producer prices rise 6.5% on Iran war energy shock",
+    "score": -0.8,
+    "confidence": 0.9,
+    "reason": "A 6.5% jump in producer prices driven by an energy shock from the Iran war signals significant inflationary pressure, a clearly negative economic development.",
+    "evidence_spans": [
+      "US producer prices rose 6.5% on higher energy prices, largest yearly jump since 2022",
+      "jumped 6.5% from May 2025",
+      "Wholesale gasoline prices surged by more than 23% from April to May"
+    ],
+    "model_version": "claude-sonnet-5",
+    "prompt_version": "snp-v1",
+    "rubric_version": "rubric-7pt-v1",
+    "scorer_latency_ms": 1457
+  }
+}
